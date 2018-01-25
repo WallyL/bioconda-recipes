@@ -55,6 +55,7 @@ requirements:
     - openjdk
     - pear
     - unzip
+    - grep
     
 test:
     commands:
